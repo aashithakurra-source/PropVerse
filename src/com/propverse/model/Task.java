@@ -1,0 +1,1 @@
+package com.propverse.model; public class Task {private int taskId;private String taskName,status;public int getTaskId(){return taskId;}public void setTaskId(int v){taskId=v;}public String getTaskName(){return taskName;}public void setTaskName(String v){taskName=v;}public String getStatus(){return status;}public void setStatus(String v){status=v;}}

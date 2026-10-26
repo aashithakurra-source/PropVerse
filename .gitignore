@@ -1,0 +1,8 @@
+config.properties
+lib/*.jar
+!lib/mysql-connector-j-9.7.0.jar
+*.class
+out/
+bin/
+.idea/
+*.iml

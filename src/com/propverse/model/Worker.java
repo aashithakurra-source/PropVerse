@@ -1,0 +1,1 @@
+package com.propverse.model; public class Worker {private int workerId;private String fullName,role;public int getWorkerId(){return workerId;}public void setWorkerId(int v){workerId=v;}public String getFullName(){return fullName;}public void setFullName(String v){fullName=v;}public String getRole(){return role;}public void setRole(String v){role=v;}}

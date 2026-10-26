@@ -1,0 +1,1 @@
+package com.propverse.model; public class Issue {private int issueId;private String issueTitle,status;public int getIssueId(){return issueId;}public void setIssueId(int v){issueId=v;}public String getIssueTitle(){return issueTitle;}public void setIssueTitle(String v){issueTitle=v;}public String getStatus(){return status;}public void setStatus(String v){status=v;}}
